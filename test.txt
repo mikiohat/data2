@@ -1,1 +1,3 @@
 test
+adding line A
+Adding line B
